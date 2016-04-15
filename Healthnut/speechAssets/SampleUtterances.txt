@@ -1,0 +1,14 @@
+GetNewFactIntent a fact
+GetNewFactIntent a food fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a food fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a food fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a food trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a food trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some food information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
